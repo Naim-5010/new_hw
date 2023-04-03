@@ -1,0 +1,92 @@
+.body{
+    background-color:beige;
+    margin: 0%;
+    padding:0%;;
+}
+
+.blog{
+    width:95%;
+    height:500px;
+    background-color: rgba(255, 255, 255, 0.68);
+    box-shadow:0px 0px 16px -2px black;
+    margin:auto;
+}
+.first_blog{
+    width:220px;
+    height: 330px;
+    background-color:rgba(198, 160, 160, 0.297);
+    position:absolute;
+    top:99px;
+    left:90px;
+    box-shadow: 0px 0px 10px -1px black;
+    
+}
+
+.img img{
+    width:220px;
+    height: 120px;
+    margin-bottom: 20px;
+
+}
+.artical{
+    width: 200px;
+    margin:auto;
+
+}
+
+.artical p{
+    text-align: center;
+    font-family:;
+}
+
+.sub_pic{
+    position:absolute;
+    top:97px;
+    left:83px;
+    border-radius:;
+}
+
+.button{
+    width: 100px;
+    height:30px;
+
+    margin: auto;
+}
+.button button{
+    padding: 4px 9px 4px 9px ;
+    background-color: rgba(0, 0, 0, 0.612);
+    color:white;
+}
+
+.second_blog{
+    
+        width: 220px;
+        height: 330px;
+        background-color: rgba(198, 160, 160, 0.297);
+        position: absolute;
+        top: 99px;
+        left: 383px;
+        box-shadow: 0px 0px 10px -1px black;
+}
+
+
+.third_blog{
+    width: 220px;
+        height: 330px;
+        background-color: rgba(198, 160, 160, 0.297);
+        position: absolute;
+        top: 99px;
+        left: 677px;
+        box-shadow: 0px 0px 10px -1px black;
+
+}
+
+.fort_blog{
+        width: 220px;
+            height: 330px;
+            background-color: rgba(198, 160, 160, 0.297);
+            position: absolute;
+            top: 99px;
+            left: 967px;
+            box-shadow: 0px 0px 10px -1px black;
+}

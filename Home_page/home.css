@@ -1,0 +1,113 @@
+* {
+    margin: 0px;
+}
+
+.main {
+    width: 100%;
+    height: 600px;
+    background: url(home1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: rgba(235, 235, 235, 0);
+
+}
+
+.nev {
+    width: 60%;
+    display: inline;
+    padding: 10px;
+    position: relative;
+    top: px;
+    margin-left: 30px;
+    background-color: rgba(255, 228, 196, 0.299);
+
+}
+
+.nev a {
+    padding-right: 20px;
+    text-decoration: none;
+    margin-left: 50px;
+    color: aliceblue;
+    font-family: verdana;
+
+
+}
+
+.logo {
+    float: right;
+    width: 250px;
+    height: ;
+    padding: 10px;
+    margin-right: 20px;
+    margin-top: 6px;
+    background-color: rgba(255, 228, 196, 0.299);
+    text-align: center;
+}
+
+.logo h3 {
+    display: inline;
+    color: aliceblue;
+    font-family: arial black;
+    text-align: center;
+
+}
+
+.button {
+    position: relative;
+    top: 350px;
+    left: -560px;
+
+    background-color: black;
+    display: inline;
+}
+
+.button button {
+    padding-top: 15px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    font-family: arial black;
+    background-color: black;
+    color: white
+}
+
+
+.artical {
+    width: 350px;
+    height: 130px;
+    
+    position: absolute;
+    top: 180px;
+    left: 200px;
+    text-align: center;
+}
+
+.artical h2 {
+    color: aliceblue;
+    text-transform: uppercase;
+    font-family: arial black;
+    text-align: left;
+    margin-bottom: 20px;;
+}
+
+.artical p{
+    color:aliceblue;
+    text-align: justify;
+
+}
+
+.contein{
+    width:230px;
+    height: 300px;
+    background-color:rgba(240, 248, 255, 0.546);;
+    position:absolute;
+    top:130px;
+    left:850px;
+    border-radius:10px;
+
+}

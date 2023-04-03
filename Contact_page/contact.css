@@ -1,0 +1,110 @@
+.main {
+    width: 80%;
+    height: 550px;
+    background-image: url(2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+
+.from {
+    width: 55%;
+    height: 450px;
+    background-color: white;
+    position: absolute;
+    top: 55px;
+    left: 280px;
+    border-radius: 10px;
+}
+
+.from h1 {
+    font-family: verdana;
+    position: relative;
+    top: 25px;
+    left: 100px;
+}
+
+.name {
+    width: 250px;
+    height: 60px;
+
+    float: left;
+    margin-left: 80px;
+    margin-top: 50px;
+
+}
+
+.name label {
+    font-family: verdana;
+    font-size: 10px;
+}
+
+.name input {
+    font-family: verdana;
+    border: none;
+    font-size: 10px;
+
+}
+
+
+.email {
+    width: 250px;
+    height: 60px;
+
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+
+.email label {
+    font-family: verdana;
+    font-size: 10px;
+}
+
+.email input {
+    font-family: verdana;
+    border: none;
+    font-size: 10px;
+
+}
+
+.message {
+    width: 78%;
+    position: relative;
+    top: 40px;
+    left: 80px;
+}
+
+.message label {
+    font-family: verdana;
+    font-size: 10px;
+}
+
+.message textarea {
+    width: 100%;
+    font-family: verdana;
+    border: none;
+    font-size: 10px;
+}
+
+
+.submit {
+    position: absolute;
+    top: 420px;
+    left: 359px;
+}
+
+.submit input {
+    
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    background-color: tomato;
+    color: white;
+    text-align:center;
+    border-radius:100px;
+    border:none;
+    box-shadow: 1px 1px 3px 2px tomato ;
+}
